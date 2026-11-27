@@ -88,6 +88,10 @@ Graduated in 2025.
 
 [Personal Portfolio](https://mateusbarcelos.itch.io) · [Studio Portfolio](https://turtle-juice-studio.itch.io)
 
+**Featured Project — MECHBORN**
+
+- [MECHBORN — Steam](https://store.steampowered.com/app/3531220/MECHBORN/)
+- [MECHBORN — Itch.io](https://turtle-juice.itch.io/mechborn)
 ---
 
 Based in Belo Horizonte, Brazil.
