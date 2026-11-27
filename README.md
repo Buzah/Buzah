@@ -16,9 +16,9 @@ scalable game systems, and AI-assisted development.
 ![Unity](https://img.shields.io/badge/Unity-171717?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![FMOD](https://img.shields.io/badge/FMOD-181717?style=for-the-badge)
-![Steamworks](https://img.shields.io/badge/Steamworks-171A21?style=for-the-badge&logo=steam)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FMOD](https://img.shields.io/static/v1?label=&message=FMOD&color=181717&style=for-the-badge)
+![Steamworks](https://img.shields.io/static/v1?label=&message=Steamworks&color=171A21&style=for-the-badge&logo=steam&logoColor=white)
 
 ## Technical Expertise
 
@@ -63,8 +63,8 @@ PUC Minas | 2025
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusmacedobarcelos/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://mateusbarcelos.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/mateusmacedobarcelos/)
+[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=FA5C5C&style=for-the-badge&logo=itchdotio&logoColor=white)](https://mateusbarcelos.itch.io)
 
 ---
 
