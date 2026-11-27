@@ -67,7 +67,16 @@ October 2023 – Present
 - Technical problem-solving, debugging, refactoring, and iterative development.
 - Multidisciplinary collaboration and business development.
 
-[Studio Portfolio](https://turtle-juice-studio.itch.io)
+**Featured Project — MECHBORN**
+
+Commercial roguelike deckbuilder featuring modular gameplay systems, strategic combat, and procedural progression.
+
+[Steam](https://store.steampowered.com/app/3531220/MECHBORN/) · [Itch.io](https://turtle-juice.itch.io/mechborn)
+
+**Studio Portfolio**
+
+[Explore other Turtle Juice Studio projects](https://turtle-juice-studio.itch.io)
+
 
 ## Education
 
